@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
-//Condições, Loops e Exceções na Prática com Java
-
-1 / 5 - Operações Bancárias Simples com Switch
+// Condições, Loops e Exceções na Prática com Java - Operações Bancárias Simples com Switch
 public class SimulacaoBancaria {
 
     public static void main(String[] args) {
